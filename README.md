@@ -33,6 +33,7 @@ LLM 的训练数据永远滞后于中文互联网的造梗速度。当用户说"
 | [meme-niyijiku](./meme-niyijiku/SKILL.md) | 你已急哭 | 表情包迷因 | 你已急哭、外星人表情包、急了 |
 | [meme-wodedaodun](./meme-wodedaodun/SKILL.md) | 我的刀盾 | 空耳梗 | 我的刀盾、刀盾狗、What the dog doing |
 | [meme-bibilabu](./meme-bibilabu/SKILL.md) | 比比拉布 | 无意义音效梗 | 比比拉布、bibilabu、Howieazy |
+| [meme-nailong](./meme-nailong/SKILL.md) | 奶龙/大笑奶龙 | AI生成抽象梗 | 奶龙、大笑奶龙、奶龙捧腹大笑、变异奶龙 |
 
 ## 安装
 

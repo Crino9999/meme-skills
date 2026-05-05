@@ -19,7 +19,9 @@ meme-skills/
 │   └── SKILL.md
 ├── meme-wodedaodun/        # 我的刀盾
 │   └── SKILL.md
-└── meme-bibilabu/          # 比比拉布
+├── meme-bibilabu/          # 比比拉布
+│   └── SKILL.md
+└── meme-nailong/           # 奶龙 / 大笑奶龙
     └── SKILL.md
 ```
 
