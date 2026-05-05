@@ -10,24 +10,18 @@ LLM 的训练数据永远滞后于中文互联网的造梗速度。当用户说"
 
 本项目将热梗知识以 open agent skill 格式组织分发，让任何 AI agent 按需加载，跟上梗的版本，不做局外人。
 
-### 证据：主流国产 LLM 的训练数据截止日期
+### 主流国产 LLM 的训练数据截止日期
 
 以下数据来自 [models.dev](https://models.dev) 及各模型官方文档（截至 2026 年 5 月）：
 
 | 模型 | 训练数据截止 | 发布时间 | 知识滞后 |
 |---|---|---|---|
-| DeepSeek V4 Flash / Pro | ~2025-05¹ | 2026-04 | ~11 个月 |
-| Kimi K2.6 | 2025-04² | 2026-04 | ~12 个月 |
-| GLM 5.1 | 2025-04³ | 2026-04 | ~12 个月 |
-| MiniMax M2.7 | 2025-01⁴ | 2026-03 | ~14 个月 |
-| Qwen 3.6 Plus | 2025-04⁴ | 2026-04 | ~12 个月 |
-| MiMo V2.5 Pro | 2024-12⁵ | 2026-04 | ~16 个月 |
-
-> ¹ DeepSeek 未正式公布 V4 的 cutoff，此日期为 chat 端知识更新节点。
-> ² 来源：[aiprixa.com](https://aiprixa.com/kimi-k2-6-code/)
-> ³ 来源：[whichllm.io](https://whichllm.io/models/opencode-glm-5-1)
-> ⁴ 来源：[models.dev API](https://models.dev/api.json)
-> ⁵ 来源：MiMo 官方 system prompt 明确声明 "knowledge cutoff date is December 2024"
+| DeepSeek V4 Flash / Pro | 2025-05 | 2026-04 | ~11 个月 |
+| Kimi K2.6 | 2025-04 | 2026-04 | ~12 个月 |
+| GLM 5.1 | 2025-04 | 2026-04 | ~12 个月 |
+| MiniMax M2.7 | 2025-01 | 2026-03 | ~14 个月 |
+| Qwen 3.6 Plus | 2025-04 | 2026-04 | ~12 个月 |
+| MiMo V2.5 Pro | 2024-12 | 2026-04 | ~16 个月 |
 
 即使是 2026 年 3-4 月发布的最新模型，训练数据也停留在 2024 年底至 2025 年初。而互联网热梗的生命周期往往只有几周到几个月——这意味着**任何 LLM 都天然无法覆盖发布时已存在的梗，更不用说发布后的新梗**。Skill 机制正是为填补这个结构性缺口而设计。
 
