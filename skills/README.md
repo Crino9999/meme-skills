@@ -11,4 +11,6 @@
 | meme-wodedaodun | 我的刀盾 | 空耳梗 |
 | meme-bibilabu | 比比拉布 | 无意义音效梗 |
 | meme-nailong | 奶龙/大笑奶龙 | AI生成抽象梗 |
+| meme-suanbird | 蒜鸟 | 方言谐音梗 |
+| meme-jichu | xx基础xx就不基础 | 万能句式梗 |
 | meme-skill-creator | 梗技能创建器 | 元工具 |

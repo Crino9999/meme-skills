@@ -24,6 +24,10 @@ meme-skills/
 │   │   └── SKILL.md
 │   ├── meme-nailong/       # 奶龙 / 大笑奶龙
 │   │   └── SKILL.md
+│   ├── meme-suanbird/      # 蒜鸟
+│   │   └── SKILL.md
+│   ├── meme-jichu/         # xx基础xx就不基础
+│   │   └── SKILL.md
 │   └── meme-skill-creator/ # 梗技能创建器（元工具）
 │       ├── SKILL.md
 │       └── references/

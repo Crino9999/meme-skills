@@ -34,6 +34,8 @@ LLM 的训练数据永远滞后于中文互联网的造梗速度。当用户说"
 | [meme-wodedaodun](./skills/meme-wodedaodun/SKILL.md) | 我的刀盾 | 空耳梗 | 我的刀盾、刀盾狗、What the dog doing |
 | [meme-bibilabu](./skills/meme-bibilabu/SKILL.md) | 比比拉布 | 无意义音效梗 | 比比拉布、bibilabu、Howieazy |
 | [meme-nailong](./skills/meme-nailong/SKILL.md) | 奶龙/大笑奶龙 | AI生成抽象梗 | 奶龙、大笑奶龙、奶龙捧腹大笑、变异奶龙 |
+| [meme-suanbird](./skills/meme-suanbird/SKILL.md) | 蒜鸟 | 方言谐音梗 | 蒜鸟、蒜鸟蒜鸟、武汉和平鸟、都不容易 |
+| [meme-jichu](./skills/meme-jichu/SKILL.md) | xx基础xx就不基础 | 万能句式梗 | 基础款、显贵公式、基础不基础 |
 
 ## 目录说明
 
