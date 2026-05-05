@@ -48,6 +48,8 @@ cp -r meme-* ~/.agents/skills/
 
 参见 [AGENTS.md](./AGENTS.md) 了解 skill 格式和添加新梗的流程。
 
+推荐使用内置的 **[梗技能创建器](./meme-skill-creator/SKILL.md)** —— 一个元 skill，可在对话中自动完成梗研究、交叉验证、按模板编写和索引更新的全流程。
+
 ## 协议
 
 [MIT](./LICENSE)
