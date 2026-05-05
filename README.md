@@ -29,18 +29,18 @@ LLM 的训练数据永远滞后于中文互联网的造梗速度。当用户说"
 
 | Skill | 梗名 | 分类 | 触发关键词 |
 |---|---|---|---|
-| [meme-jiahao](./meme-jiahao/SKILL.md) | 嘉豪 | 网络流行词 | 嘉豪、嘉欣、豪意值 |
-| [meme-niyijiku](./meme-niyijiku/SKILL.md) | 你已急哭 | 表情包迷因 | 你已急哭、外星人表情包、急了 |
-| [meme-wodedaodun](./meme-wodedaodun/SKILL.md) | 我的刀盾 | 空耳梗 | 我的刀盾、刀盾狗、What the dog doing |
-| [meme-bibilabu](./meme-bibilabu/SKILL.md) | 比比拉布 | 无意义音效梗 | 比比拉布、bibilabu、Howieazy |
-| [meme-nailong](./meme-nailong/SKILL.md) | 奶龙/大笑奶龙 | AI生成抽象梗 | 奶龙、大笑奶龙、奶龙捧腹大笑、变异奶龙 |
+| [meme-jiahao](./skills/meme-jiahao/SKILL.md) | 嘉豪 | 网络流行词 | 嘉豪、嘉欣、豪意值 |
+| [meme-niyijiku](./skills/meme-niyijiku/SKILL.md) | 你已急哭 | 表情包迷因 | 你已急哭、外星人表情包、急了 |
+| [meme-wodedaodun](./skills/meme-wodedaodun/SKILL.md) | 我的刀盾 | 空耳梗 | 我的刀盾、刀盾狗、What the dog doing |
+| [meme-bibilabu](./skills/meme-bibilabu/SKILL.md) | 比比拉布 | 无意义音效梗 | 比比拉布、bibilabu、Howieazy |
+| [meme-nailong](./skills/meme-nailong/SKILL.md) | 奶龙/大笑奶龙 | AI生成抽象梗 | 奶龙、大笑奶龙、奶龙捧腹大笑、变异奶龙 |
 
 ## 目录说明
 
 | 目录 | 用途 |
 |---|---|
-| `meme-*/` | 正式收录的梗 skill，按规范编写 |
-| [`incoming/`](./incoming/) | 待处理的投稿，质量参差，需审核重写后移入正式目录 |
+| `skills/` | 正式收录的梗 skill 和元工具，按规范编写 |
+| [`incoming/`](./incoming/) | 待处理的投稿，质量参差，需审核重写后移入 `skills/` |
 | [`archive/`](./archive/) | 已过时或不再维护的 skill 封存 |
 
 ## 安装
@@ -49,7 +49,7 @@ LLM 的训练数据永远滞后于中文互联网的造梗速度。当用户说"
 
 ```bash
 # OpenCode / Sisyphus
-cp -r meme-* ~/.agents/skills/
+cp -r skills/meme-* ~/.agents/skills/
 ```
 
 ## 使用建议
@@ -73,7 +73,7 @@ cp -r meme-* ~/.agents/skills/
 
 参见 [AGENTS.md](./AGENTS.md) 了解 skill 格式和添加新梗的流程。
 
-推荐使用内置的 **[梗技能创建器](./meme-skill-creator/SKILL.md)** —— 一个元 skill，可在对话中自动完成梗研究、交叉验证、按模板编写和索引更新的全流程。
+推荐使用内置的 **[梗技能创建器](./skills/meme-skill-creator/SKILL.md)** —— 一个元 skill，可在对话中自动完成梗研究、交叉验证、按模板编写和索引更新的全流程。
 
 ## 协议
 
