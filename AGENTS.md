@@ -21,8 +21,12 @@ meme-skills/
 │   └── SKILL.md
 ├── meme-bibilabu/          # 比比拉布
 │   └── SKILL.md
-└── meme-nailong/           # 奶龙 / 大笑奶龙
-    └── SKILL.md
+├── meme-nailong/           # 奶龙 / 大笑奶龙
+│   └── SKILL.md
+└── meme-skill-creator/     # 梗技能创建器（元工具）
+    ├── SKILL.md
+    └── references/
+        └── meme-template.md
 ```
 
 ## Skill 格式
