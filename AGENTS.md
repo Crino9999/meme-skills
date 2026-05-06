@@ -45,6 +45,8 @@ meme-skills/
 │   │   └── SKILL.md
 │   ├── meme-jichu/         # xx基础xx就不基础
 │   │   └── SKILL.md
+│   ├── meme-bababoyi/      # 巴巴博一/巴巴博弈
+│   │   └── SKILL.md
 │   ├── game-slay-the-spire-2/  # 杀戮尖塔2
 │   │   └── SKILL.md
 │   └── meme-skill-creator/ # 梗技能创建器（元工具）

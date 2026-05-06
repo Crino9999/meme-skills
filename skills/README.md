@@ -15,6 +15,7 @@
 | meme-nailong | 奶龙/大笑奶龙 | AI生成抽象梗 |
 | meme-suanbird | 蒜鸟 | 方言谐音梗 |
 | meme-jichu | xx基础xx就不基础 | 万能句式梗 |
+| meme-bababoyi | 巴巴博一/巴巴博弈 | 空耳梗 |
 | meme-skill-creator | 梗技能创建器 | 元工具 |
 
 ### 游戏
