@@ -1,8 +1,10 @@
 # skills/
 
-正式收录的梗 skill 和元工具。每个 skill 按规范编写，可供 AI agent 按需加载。
+正式收录的梗 skill、游戏 skill 和元工具。每个 skill 按规范编写，可供 AI agent 按需加载。
 
 ## 当前收录
+
+### 热梗
 
 | Skill | 梗名 | 分类 |
 |---|---|---|
@@ -14,3 +16,9 @@
 | meme-suanbird | 蒜鸟 | 方言谐音梗 |
 | meme-jichu | xx基础xx就不基础 | 万能句式梗 |
 | meme-skill-creator | 梗技能创建器 | 元工具 |
+
+### 游戏
+
+| Skill | 游戏名 | 分类 |
+|---|---|---|
+| game-slay-the-spire-2 | 杀戮尖塔2 | 肉鸽卡牌 |
